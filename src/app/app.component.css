@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+div > button{
+background-color: rgb(124, 131, 124);
+color: rgb(19, 22, 20);
+border-radius: 10%;
+height: 50px;
+}
